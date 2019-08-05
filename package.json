@@ -40,7 +40,6 @@
   "dependencies": {
     "react-mixin": "3.0.5",
     "react-native-root-siblings": "2.2.0",
-    "react-redux": "^5.0.7",
     "react-timer-mixin": "0.13.3",
     "static-container": "^1.2.0"
   },
